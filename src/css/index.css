@@ -592,7 +592,7 @@ body, html{
 .third--canvas .center--line{
 	position: absolute;
 	width:0%;
-	height:5px;
+	height:20px;
 	background:#fff;
 	top:0;
 	bottom:0;
@@ -631,7 +631,7 @@ body, html{
 	color:#1080f2;
 	text-transform: uppercase;
 	margin:0;
-	font-size:5em;
+	font-size:3em;
 }
 
 .third--canvas .center--line h1 > span{
